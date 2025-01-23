@@ -66,6 +66,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
   </tr>
 </table>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidgonzalez95&show_icons=true&theme=radical)
 
 
 

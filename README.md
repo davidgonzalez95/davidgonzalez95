@@ -14,11 +14,11 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ### Specialize In:
 
-| **Specialization**            | Description                                         | **Badge**
+| **Specialization**            | Description                                         | **Badge**                              |
 | ------------------------------| ----------------------------------------------------| ---------------------------------------|
 | **Cloud Platforms**           | Azure (Data Factory, Databricks, Synapse Analytics) | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border: none;"/> |
-| **Programming Languages**     | Python, Spark, Databricks                           | |
-| **Databases**                 | MySQL, PostgreSQL                                   | |
+| **Programming Languages**     | Python, Spark, Databricks                           | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40" style="border: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="60" height="40" style="border: none;"/>|
+| **Databases**                 | SQL, MySQL, PostgreSQL                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border: none;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="border: none;"/> |
 | **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="border: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="border: none;"/> |
 | **Other**                     | ETL Processes, Data Modeling, Data Warehousing      |                                        |
 
@@ -67,20 +67,6 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
     </td>
   </tr>
   <tr style="line-height: 0.8;">
-    <td style="width: 25%;"><h4>📊 Data Science & Analytics Tools</h4></td>
-    <td>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="border: none;"/>
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/>
-      </a>
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border: none;"/>
-      </a>
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="border: none;"/>
-      </a>
     </td>
   </tr>
 </table>

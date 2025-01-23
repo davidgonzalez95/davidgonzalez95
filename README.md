@@ -2,7 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]((https://www.linkedin.com/in/davidgh95/))
 [![Email Badge](https://img.shields.io/badge/Email-Me-red)](david.gonzlez.95@gmail.com)
-[![GitHub Badge](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)]((https://github.com/davidgonzalez95))
 
 ---
 

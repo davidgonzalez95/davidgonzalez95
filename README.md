@@ -19,6 +19,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-## Featured Projects
+## Featured Project
 
-Check out my **[End-to-End Data Engineering on Azure - AdventureWorks Project](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project)**, where I demonstrate my skills in Azure Data Engineering by building a cloud-based data pipeline.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidgonzalez95&repo=End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project&theme=tokyonight)](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project)
+

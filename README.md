@@ -11,6 +11,14 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ---
 
+## **Projects**
+
+- [**End-to-End-Data-Engineering-on-Azure-Project**](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-Project): This project aims to build an end-to-end Azure Data Engineering solution, covering data ingestion, transformation, and analytics, ultimately connecting to Power BI for visualization and reporting.
+
+**Tools Used:** **Azure Data Factory** | **Azure Databricks** | **Azure Synapse Analytics** | **Power BI**
+
+---
+
 ## Specialize In:
 
 | **Specialization**            | Description                                         | **Badge**                              |
@@ -20,15 +28,6 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 | **Databases**                 | SQL, MySQL, PostgreSQL                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border: none;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="border: none;"/> |
 | **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="border: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="border: none;"/> |
 | **Other**                     | ETL Processes, Data Modeling, Data Warehousing      |                                        |
-
-
----
-
-## 📊 **Projects**
-
-- [!**End-to-End-Data-Engineering-on-Azure-Project**](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-Project): This project aims to build an end-to-end Azure Data Engineering solution, covering data ingestion, transformation, and analytics, ultimately connecting to Power BI for visualization and reporting.
-
-**Tools Used:** **Azure Data Factory** | **Azure Databricks** | **Azure Synapse Analytics** | **Power BI**
 
 ---
 

@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davidgh95/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-9e9e9e-blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&labelColor=d3d3d3" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=david.gonzalez.95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-red" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-red" alt="Email Badge"/>
   </a>
 </div>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Gonzalez</h1>
+<h1 align="center">Hi, I'm David Gonzalez</h1>
 
 I am a passionate **Data Engineer** with over **3 years of experience** turning raw data into meaningful insights. I work with modern tools like **Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake,** and the **Data Lakehouse** to build efficient data pipelines and solutions in the cloud. I’m also a **Databricks Certified Spark Developer** and a **Microsoft Certified Azure Data Engineer.** I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
@@ -9,8 +9,8 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ### Platforms and Technologies I Specialize In:
 ##### ☁️ Cloud Platforms:  
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
 
 ---

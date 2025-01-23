@@ -16,12 +16,12 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 | **Specialization**            | Description                                         | **Badge**
 | ------------------------------| ----------------------------------------------------| ---------------------------------------|
-| **Cloud Platforms**           | Azure (Data Factory, Databricks, Synapse Analytics) | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border: none;"/>
-| **Programming Languages**     | Python, Spark, Databricks                           | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/>
+| **Cloud Platforms**           | Azure (Data Factory, Databricks, Synapse Analytics) | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border: none;"/> |
+| **Programming Languages**     | Python, Spark, Databricks                           | |
+| **Databases**                 | MySQL, PostgreSQL                                   | |
+| **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border: none;"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="border: none;"/>|
-| **Databases**                 | MySQL, PostgreSQL                                   | |
-| **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          | |
 | **Other**                     | ETL Processes, Data Modeling, Data Warehousing      |                                        |
 
 <table style="width: 100%; table-layout: fixed; text-align: center;">

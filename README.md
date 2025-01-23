@@ -1,13 +1,26 @@
 <h1 align="center">Hi, I'm David Gonzalez</h1>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]((https://www.linkedin.com/in/davidgh95/))
+[![Email Badge](https://img.shields.io/badge/Email-Me-red)](david.gonzlez.95@gmail.com)
+[![GitHub Badge](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)]((https://github.com/davidgonzalez95))
+
+---
+
+## **About Me**
+
 I am a passionate **Data Engineer** with over **3 years of experience** turning raw data into meaningful insights. I work with modern tools like **Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake,** and the **Data Lakehouse** to build efficient data pipelines and solutions in the cloud. I’m also a **Databricks Certified Spark Developer** and a **Microsoft Certified Azure Data Engineer.** I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
-- 💻 I’m a **Data Engineer**
-- 💬 Ask me about **Cloud Data Engineering**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/davidgh95/)
-- 📧 **Reach me at:** david.gonzlez.95@gmail.com  
+---
 
 ### Specialize In:
+
+| Skill                         | Description                                         |
+| ------------------------------| ----------------------------------------------------|
+| **Cloud Platforms**           | Azure (Data Factory, Databricks, Synapse Analytics) <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border: none;"/> |
+| **Programming Languages**     | Python, Spark, Databricks                           |
+| **Databases**                 | MySQL, PostgreSQL                                   |
+| **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          |
+| **Other**                     | ETL Processes, Data Modeling, Data Warehousing      |
 
 <table style="width: 100%; table-layout: fixed; text-align: center;">
   <!-- Columna de Títulos -->

@@ -11,7 +11,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 <table style="width: 100%; table-layout: fixed; text-align: center;">
   <!-- Columna de Títulos -->
-  <tr>
+  <tr style="line-height: 0.8;">
     <td style="width: 25%;"><h4>☁️ Cloud Platforms</h4></td>
     <td>
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
@@ -25,7 +25,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="line-height: 0.8;">
     <td style="width: 25%;"><h4>💻 Programming Languages</h4></td>
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
@@ -35,11 +35,11 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="30" height="30" style="border: none;"/>
       </a>
       <a href="https://databricks.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-        <img src="https://databricks.com/wp-content/uploads/2022/07/Databricks_LogoIcon-1.png" alt="databricks" width="30" height="30" style="border: none;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="30" height="30" style="border: none;"/>
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="line-height: 0.8;">
     <td style="width: 25%;"><h4>🗄️ Databases</h4></td>
     <td>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
@@ -53,7 +53,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="line-height: 0.8;">
     <td style="width: 25%;"><h4>📊 Data Science & Analytics Tools</h4></td>
     <td>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
@@ -71,6 +71,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
     </td>
   </tr>
 </table>
+
 
 
 

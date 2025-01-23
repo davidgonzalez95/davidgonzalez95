@@ -19,11 +19,13 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-## 🚀 Featured Project
+#### Featured Project
 
 **[End-to-End Data Engineering on Azure](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project)**  
 🔧 Tools used:  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat) 
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-FF9C00?logo=azure-devops&logoColor=white&style=flat)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat)  
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-7C66B4?logo=microsoft-azure&logoColor=white&style=flat)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)  
 

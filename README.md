@@ -14,6 +14,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 ## **Projects**
 
 - [**End-to-End-Data-Engineering-on-Azure-Project**](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-Project): This project aims to build an end-to-end Azure Data Engineering solution, covering data ingestion, transformation, and analytics, ultimately connecting to Power BI for visualization and reporting.
+
   **Tools Used:** **Azure Data Factory** | **Azure Databricks** | **Azure Synapse Analytics** | **Power BI**
 
 ---

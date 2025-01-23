@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&labelColor=d3d3d3" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=david.gonzalez.95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Contact&message=Email&color=f28b82&labelColor=d3d3d3" alt="Email Badge"/>
+    <img src="https://img.shields.io/static/v1?label=Contact&message=Email&color=ea4c46&labelColor=d3d3d3" alt="Email Badge"/>
   </a>
 </div>
 

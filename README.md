@@ -21,5 +21,4 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ## Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidgonzalez95&repo=End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project&theme=tokyonight)](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project)
-
+[![Azure Data Engineering Project](https://raw.githubusercontent.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project/main/project-thumbnail.png)](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-AdventureWorks-Project)

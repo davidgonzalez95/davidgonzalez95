@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm David Gonzalez</h1>
 
-<h1 align="center">[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]((https://www.linkedin.com/in/davidgh95/))
-<h1 align="center">[![Email Badge](https://img.shields.io/badge/Email-Me-red)](david.gonzlez.95@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/davidgh95/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:david.gonzlez.95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red" alt="Email Badge"/>
+  </a>
+</div>
 
 ---
 

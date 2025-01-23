@@ -27,5 +27,5 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat)  
 ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-7C66B4?logo=microsoft-azure&logoColor=white&style=flat)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)  
+[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)  
 

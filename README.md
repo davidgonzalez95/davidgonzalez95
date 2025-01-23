@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm David Gonzalez</h1>
-<h4 align="left">I am a passionate <strong>Data Engineer</strong> with over <strong>3 years of experience</strong> turning raw data into meaningful insights. I work with modern tools like <strong>Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake,</strong> and the <strong>Data Lakehouse</strong> to build efficient data pipelines and solutions in the cloud. I’m also a <strong>Databricks Certified Spark Developer</strong> and a <strong>Microsoft Certified Azure Data Engineer.</strong> I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+
+I am a passionate **Data Engineer** with over **3 years of experience** turning raw data into meaningful insights. I work with modern tools like **Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake,** and the **Data Lakehouse** to build efficient data pipelines and solutions in the cloud. I’m also a **Databricks Certified Spark Developer** and a **Microsoft Certified Azure Data Engineer.** I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
 - 🔭 I’m a **Data Engineer**
 
 - 👨‍💻 Ask me about **Cloud Data Engineering**
 
-- 💬 LinkedIn [LinkedIn](https://www.linkedin.com/in/davidgh95/)
+- 💬 [LinkedIn Profile](https://www.linkedin.com/in/davidgh95/)
 
 
 <h3 align="left">Languages and Tools:</h3>

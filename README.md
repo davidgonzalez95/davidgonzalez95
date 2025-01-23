@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David Gonzalez</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]((https://www.linkedin.com/in/davidgh95/))
-[![Email Badge](https://img.shields.io/badge/Email-Me-red)](david.gonzlez.95@gmail.com)
+<h1 align="center">[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]((https://www.linkedin.com/in/davidgh95/))
+<h1 align="center">[![Email Badge](https://img.shields.io/badge/Email-Me-red)](david.gonzlez.95@gmail.com)
 
 ---
 

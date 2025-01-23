@@ -7,8 +7,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/davidgh95/)
 - 📧 **Reach me at:** david.gonzlez.95@gmail.com  
 
-### Platforms and Technologies I Specialize In:
-### Technologies & Tools I Work With
+### Specialize In:
 
 <table style="width: 100%; table-layout: fixed; text-align: center;">
   <!-- Fila de Títulos -->

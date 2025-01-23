@@ -11,7 +11,7 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ---
 
-### Specialize In:
+## Specialize In:
 
 | **Specialization**            | Description                                         | **Badge**                              |
 | ------------------------------| ----------------------------------------------------| ---------------------------------------|
@@ -20,3 +20,39 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 | **Databases**                 | SQL, MySQL, PostgreSQL                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border: none;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="border: none;"/> |
 | **Data Tools**                | Pandas, Scikit-learn, TensorFlow, Power BI          | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="border: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border: none;"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="border: none;"/> |
 | **Other**                     | ETL Processes, Data Modeling, Data Warehousing      |                                        |
+
+---
+
+## **Certifications**
+
+- **AWS Data Engineer Associate** | DEA-C01 | February 2025
+- **Databricks Data Engineer Associate** | February 2025
+- **Azure Data Engineer Associate** | DP-203 | January 2025
+- **Machine Learning with Python** | IBM | April 2024
+- **Data Science Professional Certificate** | IBM | February 2023
+- **Databases and SQL for Data Science** | IBM | February 2023
+- **Data Analytics Certificate** | Google | September 2022
+
+---
+
+## **What I'm Learning**
+
+- **Advanced Azure Services**: Delving deeper into Azure's comprehensive suite of data services.
+- **Improved AWS knowledge**: Doing the Amazon Web Service Certificate.
+- **Big Data**: Exploring Hadoop, Spark, and other big data technologies.
+- **Machine Learning**: Integrating AI and machine learning into data pipelines.
+
+---
+
+## **Goals**
+
+- Contribute to impactful open-source projects.
+- Continuously enhance my cloud and data engineering skills.
+- Build a network with professionals and learn from their experiences.
+
+---
+
+## **Get in Touch**
+
+- **LinkedIn**: https://www.linkedin.com/in/davidgh95/
+- **Email**: david.gonzlez.95@gmail.com

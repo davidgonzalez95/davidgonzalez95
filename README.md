@@ -19,9 +19,13 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ## **Projects**
 
-- [**End-to-End-Data-Engineering-on-Azure-Project**](https://github.com/davidgonzalez95/End-to-End-Data-Engineering-on-Azure-Project): This project aims to build an end-to-end Azure Data Engineering solution, covering data ingestion, transformation, and analytics, ultimately connecting to Power BI for visualization and reporting.
+- [**Azure | End-to-End Data Engineering | Adventure Works**](https://github.com/davidgonzalez95/Azure_Project_01_End-to-End-Data-Engineering_AdventureWorks): This project aims to build an end-to-end Azure Data Engineering solution, covering data ingestion, transformation, and analytics, ultimately connecting to Power BI for visualization and reporting.
 
   **Tools Used:** **Azure Data Factory** | **Azure Databricks** | **Azure Synapse Analytics** | **Power BI**
+
+- [**Azure | Data Factory Orchestration | Cafe Company**](https://github.com/davidgonzalez95/Azure_Project-02_Data-Factory-Orchestration_CafeCompany): This project automates ETL for sales data from subsidiaries using Azure Data Factory. Data is ingested from SharePoint (simulated via GitHub), processed, and stored in Azure Data Lake for analysis and reporting.
+  
+  **Tools Used: Azure Data Factory | Automated Triggers | Monitoring & Notifications**
 
 ---
 

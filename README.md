@@ -19,9 +19,13 @@ I am a passionate **Data Engineer** with over **3 years of experience** turning 
 
 ## **Projects**
 
+- [**Azure | End-to-End-Data-Engineering | CarDealership**](https://github.com/davidgonzalez95/Azure_Project_04_End-to-End-Data-Engineering_CarDealership):
+
+  **Tools Used: Azure SQL Server | Azure Data Factory | Databricks | Power BI**
+
 - [**Azure | End-to-End Data Engineering | Netflix data streaming**](https://github.com/davidgonzalez95/Azure_Project_03_End-to-End-Data-Engineering_NetflixContent): This project builds a **scalable Azure Data Engineering solution** for data ingestion, transformation, and analytics. It uses **Azure Data Factory** for data ingestion, **Databricks** for **incremental data ingestion**, and **Databricks with Delta Live Tables is used for transformation**, and **Azure Synapse Analytics** is used for the data warehouse, with **Power BI** for reporting.
 
-  **Tools Used: Azure Data Factory | Databricks (Delta Live Tables) | Azure Synapse Analytics | Power BI**
+  **Tools Used: Azure Data Factory | Databricks (Unity Catalog | Autoloader | Workflows | Delta live tables) | Azure Synapse Analytics | Power BI**
   
 - [**Azure | Data Factory Orchestration | Cafe Company**](https://github.com/davidgonzalez95/Azure_Project-02_Data-Factory-Orchestration_CafeCompany): This project automates ETL for sales data from subsidiaries using Azure Data Factory. Data is ingested from SharePoint (simulated via GitHub), processed, and stored in Azure Data Lake for analysis and reporting.
   
